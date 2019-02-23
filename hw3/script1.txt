@@ -1,0 +1,28 @@
+Script started on Thu 21 Feb 2019 02:37:55 PM PST
+armandosauce@armandosauce-VirtualBox ~/Desktop/CS558/hw3 $
+armandosauce@armandosauce-VirtualBox ~/Desktop/CS558/hw3 $ python3 hw3.py
+Enter a value for x0: 1000
+Enter a value for y0: 800
+
+Enter a lethality coefficient for x (alpha): 0.8
+Enter a lethality coefficient for y (beta): 0.9
+
+Enter the number of reinforcement events for x: 3
+Enter the number of reinforcement events for y: 1
+
+Enter level at which a reinforcement occurs for x as a percentage of (x0) initial force level: 40
+Enter level at which a reinforcement occurs for y as a percentage of (y0) initial force level: 30
+
+
+Enter reinforcement size for x as a percentage of (x0) initial force level: 40
+Enter reinforcement size for y as a percentage of (y0) initial force level: 40
+
+
+Enter a lethality coefficient for x reinforcments (alpha1): 0.8
+Enter a lethality coefficient for y reinforcements (beta1): 0.9
+
+armandosauce@armandosauce-VirtualBox ~/Desktop/CS558/hw3 $
+armandosauce@armandosauce-VirtualBox ~/Desktop/CS558/hw3 $ exit
+exit
+
+Script done on Thu 21 Feb 2019 02:39:27 PM PST
