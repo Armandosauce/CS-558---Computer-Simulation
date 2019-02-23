@@ -2,15 +2,6 @@ import math
 import numpy
 import matplotlib.pyplot as plt
 
-def Summary():
-  
-  
-  
-  
-  return;
-
-
-
 t0 = 0
 tfinal = 5
 dt = 0.1
