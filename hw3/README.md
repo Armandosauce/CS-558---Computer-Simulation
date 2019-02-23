@@ -6,8 +6,8 @@ at the beginning of the program.
 in an Ubuntu shell. All percentage inputs must be entered as a number within the bounds specified on the
 instruction sheet for hw3. These bounds are listed below for reference:
 
-* # of reinforcement events (0-3)
-* % of initial force level at which a reinforcement occurs (10% - 80%)
+* number of reinforcement events (0-3)
+* percent of initial force level at which a reinforcement occurs (10% - 80%)
 * reinforcement force size as % of initial force level (10% - 50%)
 * lethality coefficient of the new troops.
 
